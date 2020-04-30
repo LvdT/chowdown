@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Diplomat Cream"
+title: "Chocolate Brownie"
 tags: dessert, cake
 
 ingredients:
