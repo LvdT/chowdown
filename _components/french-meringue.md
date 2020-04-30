@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "French Meringue"
+title: "French meringue"
 
 ingredients:
 - 60 g powdered sugar
