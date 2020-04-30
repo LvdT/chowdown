@@ -2,7 +2,6 @@
 
 layout: recipe
 title:  "Amblet"
-image: banana-bread.jpg
 tags: main
 
 ingredients:
@@ -12,10 +11,9 @@ ingredients:
 - salt
 
 directions:
-- Mix the egg with the flour.
-- Add milk slowly until the mix becomes fluid, but not runny.
-- Pour some of the mix in a buttered or oiled pan, rotate the pan to spread it evenly.
-- Cook until the borders start to darken, then flip and finish cooking.
-
+- Mix the egg with the flour
+- Add milk slowly until the mix becomes fluid, but not runny
+- Pour some of the mix in a buttered or oiled pan, rotate the pan to spread it evenly
+- Cook until the borders start to darken, then flip and finish cooking
 
 ---
