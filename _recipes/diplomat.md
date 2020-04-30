@@ -13,5 +13,6 @@ directions:
 components:
 - Pastry cream
 - Chantilly cream
+- 1 sheet of gelatin (2 g)
 
 ---
