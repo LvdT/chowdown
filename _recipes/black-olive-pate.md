@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Black Olive Pâté"
-tags: main
+tags: pasta, toast
 
 ingredients:
 - 160 g pitted black olives (dry)
@@ -13,7 +13,7 @@ ingredients:
 - olive oil
 
 directions:
-- Wash the capers and put them in a blender together with the olives, tuna, anchovies, and garlic.
-- Start blending and slowly add the oil as needed, in order to get a soft, but not runny, cream.
+- Wash the capers and put them in a blender together with the olives, tuna, anchovies, and garlic
+- Start blending and slowly add the oil as needed, in order to get a soft, but not runny, cream
 
 ---

@@ -16,12 +16,12 @@ ingredients:
 - 2 g salt
 
 directions:
-- Melt the butter in a saucepan.
-- Meanwhile, whisk the eggs and sugar together.
-- Add the butter to the eggs and sugar while mixing.
-- Add the rest of the ingredients.
-- If needed, add some (brewed) coffee to correct the texture.
-- Bake in the oven at 150 °C for 30 minutes.
+- Melt the butter in a saucepan
+- Meanwhile, whisk the eggs and sugar together
+- Add the butter to the eggs and sugar while mixing
+- Add the rest of the ingredients
+- If needed, add some (brewed) coffee to correct the texture
+- Bake in the oven at 150 °C static for 30 minutes
 
 ---
 
