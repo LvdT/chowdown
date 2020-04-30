@@ -12,7 +12,7 @@
   --white: #FFFFFF;
   --black: #000000;
   --light: #EEEEEE;
-  --blue: #007FFF;
+  --blue: #FFAA00;
   --red: #CC0000;
   --primary: var(--red);
 }
@@ -104,18 +104,18 @@ nav .label{
 }
 
 .recipe .image{
-	
+
 }
 
 .recipe:hover .image{
-	
+
 }
 
 .title{
 	display: -webkit-box;
 	-webkit-line-clamp: 1;
 	-webkit-box-orient: vertical;
-	overflow: hidden; 
+	overflow: hidden;
 }
 
 .ratio{
@@ -238,7 +238,7 @@ input:focus{
 
 <div class="recipes mb4 col col-3">
     <div class="clearfix p1">
-    
+
     {% assign sorted = site.recipes | sort:"date" %}
     {% for post in sorted %}
       <div class="recipe sm-col sm-col-6 lg-col-4 py1 pb2">
@@ -248,12 +248,12 @@ input:focus{
           </a>
       </div>
     {% endfor %}
-    
+
   </div>
 </div>
 
 <div class="search col col-3">
-	
+
 	<div class="search container p2">
 			<div id="search-container">
 			<input type="text" id="search-input" placeholder="Search titles, ingredients, or tags...">
@@ -269,13 +269,13 @@ input:focus{
 </div>
 
 <div class="books col col-3">
-	
+
 	<div class="px2"><h2 class="mt4 pt4 center">Coming Soon!</h2><p class="px3 center">Collections like brunch, grilling, and quick dinners.</p></div>
 
 </div>
 
 <div class="blog col col-3">
-	
+
 	<div class="posts container max-width-2 mx-auto p2">
 
 	  {% for post in site.posts %}
@@ -356,28 +356,28 @@ SimpleJekyllSearch({
 	    $('#slider').removeClass().addClass('recipes');
 	    $('.item').removeClass('active');
 	    $(this).addClass('active');
-	    
+
 	});
 
 	$(".item.search").click(function() {
 	    $('#slider').removeClass().addClass('search');
 	    $('.item').removeClass('active');
 	    $(this).addClass('active');
-	    
+
 	});
 
 	$(".item.books").click(function() {
 	    $('#slider').removeClass().addClass('books');
 	    $('.item').removeClass('active');
 	    $(this).addClass('active');
-	    
+
 	});
 
 	$(".item.updates").click(function() {
 	    $('#slider').removeClass().addClass('blog');
 	    $('.item').removeClass('active');
 	    $(this).addClass('active');
-	    
+
 	});
 
 	});
