@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Diplomat cream"
+title: "Diplomat Cream"
 tags: cream, french
 
 ingredients:
@@ -14,7 +14,7 @@ directions:
 - Gently work the Chantilly cream into the pasty cream.
 
 components:
-- Pastry cream
-- Chantilly cream
+- Pastry Cream
+- Chantilly Cream
 
 ---

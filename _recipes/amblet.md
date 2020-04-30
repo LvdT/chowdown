@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Amblet"
+title: "Amblet"
 tags: main
 
 ingredients:

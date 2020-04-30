@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Chantilly cream"
+title: "Chantilly Cream"
 tags: cream, french
 
 ingredients:
