@@ -4,13 +4,15 @@ layout: recipe
 title: "French meringue"
 
 ingredients:
-- 60 g powdered sugar
+- 40 g caster sugar
+- 40 g powdered sugar
 - 1 egg white
 
 directions:
 - Whip the egg whites until they are very thick
-- Slowly add the sugar in while whipping
+- Slowly add the caster in while whipping
 - Whip until peaks start to form, avoid overwhipping
+- Fold in the powdered sugar
 
 ---
 
