@@ -10,8 +10,8 @@ ingredients:
 
 directions:
 - Whip the egg whites until they are very thick
-- Slowly add the caster in while whipping
-- Whip until peaks start to form, avoid overwhipping
+- Slowly add the caster sugar in while whipping
+- Whip to stiff peaks
 - Fold in the powdered sugar
 
 ---

@@ -12,7 +12,7 @@ ingredients:
 
 directions:
 - Start heating the milk in a pot, but avoid bringing it to a boil
-- Meanwhile, in a bowl, whisk together the yolk and sugar until the mixture starts to whiten
+- Whisk together the yolk and sugar until the mixture starts to whiten
 - Sieve the flour into the mixture and work it in
 - As soon as the milk starts smoking, pour the mixture in
 - Whisk quickly until it starts to thicken, it should not boil

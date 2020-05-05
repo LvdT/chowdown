@@ -10,5 +10,10 @@ directions:
 
 components:
 - French meringue
+- Italian meringue
+- Swiss meringue
 
 ---
+
+Only use one of the three components, depending on which you prefer.
+If using Italian or Swiss meringue, it’s better to bake at a lower temperature for longer.

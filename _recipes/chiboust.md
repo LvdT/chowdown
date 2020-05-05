@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Diplomat Cream"
+title: "Chiboust Cream"
 tags: cream, french
 
 ingredients:
@@ -10,11 +10,10 @@ ingredients:
 directions:
 - Soak the gelatin in water to soften it
 - Add the gelatin to the (hot) pastry cream and mix it in
-- Cool the pastry cream down to 4 °C
-- Fold the Chantilly cream into the pasty cream
+- Add the meringue and mix it in.
 
 components:
 - Pastry Cream
-- Chantilly Cream
+- Italian meringue
 
 ---
