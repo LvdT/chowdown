@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Italian meringue"
+title: "Italian Meringue"
 
 ingredients:
 - 80 g sugar

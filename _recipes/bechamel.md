@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Béchamel sauce"
+title: "Béchamel Sauce"
 tags: french, sauce
 
 ingredients:

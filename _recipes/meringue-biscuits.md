@@ -9,9 +9,9 @@ directions:
 - Bake at 90 °C static for 2½ hours
 
 components:
-- French meringue
-- Italian meringue
-- Swiss meringue
+- French Meringue
+- Italian Meringue
+- Swiss Meringue
 
 ---
 

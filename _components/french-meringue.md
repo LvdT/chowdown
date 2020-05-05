@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "French meringue"
+title: "French Meringue"
 
 ingredients:
 - 40 g caster sugar

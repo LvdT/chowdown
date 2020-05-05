@@ -13,6 +13,6 @@ directions:
 - Spoon it onto an oven tray and bake at 135 °C static for 45 minutes
 
 components:
-- French meringue
+- French Meringue
 
 ---
