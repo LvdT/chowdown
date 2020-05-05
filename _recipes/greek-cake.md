@@ -7,6 +7,7 @@ tags: dessert, cake
 ingredients:
 - 200 g puff pastry
 - 150 g flour
+- 130 g sugar
 - 125 g butter
 - 100 g amaretti
 - 100 g almonds
