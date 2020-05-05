@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Italian meringue"
+title: "Swiss meringue"
 
 ingredients:
 - 80 g sugar
