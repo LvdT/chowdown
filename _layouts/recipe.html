@@ -126,7 +126,7 @@ layout: default
       </ul>
 
       {% if page.tips %}
-      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].tips }}</h4>
+      <h4 class="blue regular xs-center">{{ site.translation[site.language].tips }}</h4>
       <ul itemprop="recipeInstructions">
         {% for tip in page.tips %}
         <li>{{ tip | markdownify }}</li>
