@@ -68,6 +68,16 @@ layout: default
         <li>{{ direction | markdownify }}</li>
         {% endfor %}
       </ul>
+
+      {% if page.tips %}
+      <h4 class="blue mt0 mb2 xs-center">{{ site.translation[site.language].directions }}</h4>
+      <ul itemprop="recipeInstructions">
+        <!-- lists tips for the recipe -->
+        {% for tip in page.tips %}
+        <li>{{ tip | markdownify }}</li>
+        {% endfor %}
+      </ul>
+      {% endif %}
     </div>
 
   </div>

@@ -23,6 +23,7 @@ directions:
 - If needed, add some (brewed) coffee to correct the texture
 - Bake in the oven at 150 °C static for 30 minutes
 
----
+tips:
+- Poke it with a wooden stick, it should come out dry when it’s cooked
 
-To test when it’s cooked: poke with a wooden stick, it should come out dry.
+---

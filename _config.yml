@@ -1,6 +1,6 @@
 # Site settings
 title: Chowdown
-email: lvdt88@gmail.com 
+email: lvdt88@gmail.com
 description: The plain text recipe database for hackers
 baseurl: ""
 host: 0.0.0.0
@@ -8,7 +8,7 @@ language: "en"
 lang_direction: "ltr"
 color: "#ffaa00"
 twitter_username: LvdT1988
-github_username: LvdT 
+github_username: LvdT
 
 # Build settings
 markdown: kramdown
@@ -28,6 +28,7 @@ translation:
     components: "Components"
     ingredients: "Ingredients"
     directions: "Directions"
+    tips: "Tips"
     category: "Category"
     nutritional_information: "Nutritional Information"
     component_based: 'This is a <strong class="blue">component-based recipe</strong>.'
