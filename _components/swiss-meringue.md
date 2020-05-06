@@ -12,6 +12,7 @@ directions:
 - Stir them together as it warms up to 60 °C
 - Remove from the double boiler and whip to stiff peaks
 
----
+tips:
+- Add some lemon juice (2 mL) or cream of tartar (0.4 g) to the egg whites before whipping to improve stability
 
-Add some lemon juice (2 mL) or cream of tartar (0.4 g) to the egg whites before whipping to improve stability.
+---

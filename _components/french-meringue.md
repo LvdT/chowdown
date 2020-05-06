@@ -14,7 +14,8 @@ directions:
 - Whip to stiff peaks
 - Fold in the powdered sugar
 
----
+tips:
+- Make sure the egg white is at room temperature before whipping
+- Add some lemon juice (2 mL) or cream of tartar (0.4 g) to the egg whites before whipping to improve stability
 
-Make sure the egg white is at room temperature before whipping.
-Add some lemon juice (2 mL) or cream of tartar (0.4 g) to the egg whites before whipping to improve stability.
+---

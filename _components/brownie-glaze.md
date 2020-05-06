@@ -9,6 +9,6 @@ ingredients:
 - 20 g cocoa
 
 directions:
-- Whisk the ingredients together.
+- Whisk the ingredients together
 
 ---

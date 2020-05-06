@@ -14,8 +14,8 @@ directions:
 - When the syrup reaches 121 °C slowly pour it into the egg white while whipping
 - Keep whipping until the mixture cools down
 
+tips:
+- Make sure the egg white is at room temperature before whipping
+- Add some lemon juice (2 mL) or cream of tartar (0.4 g) to the egg whites before whipping to improve stability
 
 ---
-
-Make sure the egg white is at room temperature before whipping.
-Add some lemon juice (2 mL) or cream of tartar (0.4 g) to the egg whites before whipping to improve stability.

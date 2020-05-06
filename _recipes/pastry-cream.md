@@ -18,8 +18,10 @@ directions:
 - Whisk quickly until it starts to thicken, it should not boil
 - Remove the pot from the fire, whisking as it cools down
 
----
+tips:
+- To avoid a crust forming when the cream is stored, let some butter melt onto the surface before it cools down completely
+- Flour can be replaced with a lower dose of starch (10 g)
+- The amount of flour or starch can also be changed to attain a different thickness
+- It is possible to add vanilla, citrus, rosewater or another flavouring when heating up the milk
 
-To avoid a crust forming when the cream is stored, let some butter melt onto the surface before it cools down completely.
-Flour can be replaced with a lower dose of starch (10 g). The amount of flour or starch can also be changed to have a different thickness.
-It is possible to add vanilla, citrus, rosewater or another flavouring when heating up the milk.
+---

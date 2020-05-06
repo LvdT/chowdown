@@ -13,7 +13,9 @@ components:
 - Italian Meringue
 - Swiss Meringue
 
+tips:
+- If using Italian or Swiss meringue, it’s better to bake at a lower temperature for longer, for exampl 4 hours at 60 °C
+
 ---
 
 Only use one of the three components, depending on which you prefer.
-If using Italian or Swiss meringue, it’s better to bake at a lower temperature for longer.

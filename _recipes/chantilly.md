@@ -13,6 +13,7 @@ directions:
 - Add the sugar
 - Whisk until thick
 
----
+tips:
+- It is possible to add vanilla, rosewater, citrus or another flavouring before starting to whip
 
-It is possible to add vanilla, rosewater, citrus or another flavouring before starting to whip.
+---
