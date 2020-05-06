@@ -35,13 +35,3 @@ translation:
     search: "Search"
     blog: "Blog"
     subscribe: "Subscribe"
-  de:
-    components: "Komponenten"
-    ingredients: "Zutaten"
-    directions: "Zubereitung"
-    category: "Kategorie"
-    nutritional_information: "Nährwertangaben"
-    component_based: 'Dieses Rezept besteht aus <strong class="blue">mehreren Komponenten</strong>.'
-    search: "Suche"
-    blog: "Blog"
-    subscribe: "Abonnieren"
