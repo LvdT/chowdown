@@ -128,8 +128,8 @@ layout: default
       {% if page.tips %}
       <h4 class="blue regular xs-center">{{ site.translation[site.language].tips }}</h4>
       <ul itemprop="recipeInstructions">
-        {% for tip in page.tips %}
-        <li>{{ tip | markdownify }}</li>
+        {% for item in recipe.tips %}
+        <li>{{ item | markdownify }}</li>
         {% endfor %}
       </ul>
       {% endif %}
