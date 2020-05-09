@@ -14,7 +14,7 @@ components:
 - Swiss Meringue
 
 tips:
-- If using Italian or Swiss meringue, it’s better to bake at a lower temperature for longer, for exampl 4 hours at 60 °C
+- Baking time and temperature are fairly arbitrary, however when using French meringue it’s better to bake at a higher temperature to make sure the eggs are properly cooked
 
 ---
 
