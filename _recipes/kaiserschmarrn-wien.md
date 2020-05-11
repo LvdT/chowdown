@@ -1,8 +1,8 @@
 ---
 
 layout: recipe
-title: "Kaiserschmarren (Wiener Art)"
-tags: main, austrian
+title: "Kaiserschmarrn (Wiener Art)"
+tags: dessert, austrian
 
 ingredients:
 - 130 g flour
