@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Carbonara (Emilian style)"
-tags: pasta
+tags: pasta, sauce
 
 ingredients:
 - 1 egg
