@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "English Cream"
+title: "Crème Anglaise"
 tags: main, french
 
 ingredients:

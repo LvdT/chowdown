@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Plombières Cream"
+title: "Crème Plombières"
 tags: cream, french
 
 ingredients:
@@ -12,6 +12,6 @@ directions:
 - Chill and serve
 
 components:
-- Chiboust Cream
+- Crème Chiboust
 
 ---

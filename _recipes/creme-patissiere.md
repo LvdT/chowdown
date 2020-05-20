@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Pastry Cream"
+title: "Crème Pâtissière"
 tags: main, french
 
 ingredients:
