@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Emilian Carbonara"
+title: "Carbonara (Emilian style)"
 tags: pasta
 
 ingredients:
