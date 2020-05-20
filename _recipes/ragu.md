@@ -26,4 +26,7 @@ directions:
 - Let it simmer on the lowest heat possible for two hours, stirring occasionally
 - Towards the end of the simmering step, add the milk, salt and pepper
 
+tips:
+- Add cream (100 mL) before serving if the ragù is going to be used with dry pasta
+
 ---
