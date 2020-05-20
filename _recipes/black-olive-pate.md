@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Black Olive Pâté"
-tags: pasta, toast
+tags: sauce, pasta, toast
 
 ingredients:
 - 160 g pitted black olives (dry)
