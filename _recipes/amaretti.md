@@ -17,7 +17,7 @@ directions:
 - Roll the mixture into a cylinder roughly 2 cm in diameter
 - Cut the cylinder into roughly square pieces
 - Roll each piece into a sphere
-- Bake at 200 °C static for 10 minutes (soft) or at 100 °C for 60 minutes (crisp)
+- Bake at 200 °C static for 10 minutes (crisp) or at 110 °C for 90 minutes (soft)
 
 components:
 - French meringue
