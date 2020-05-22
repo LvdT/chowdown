@@ -23,5 +23,3 @@ components:
 - French meringue
 
 ---
-
-The soft variant of the amaretti. (WIP)
