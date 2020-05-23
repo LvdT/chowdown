@@ -14,11 +14,11 @@ ingredients:
 
 directions:
 - Fry the bacon in a frying pan, without adding fat
-- Whisk the eggs, cream, pepper and cheese together
+- Whip the eggs, cream, pepper and cheese together
 - Cook and drain the pasta, save around 25 mL of the water
 - Dump the pasta in the pan with the bacon and sauté briefly
-- Remove from the fire and add the rest of the ingredients
-- Add the pasta water to help thicken
+- Add the pasta water to the sauce and whip it
+- Remove from the fire and add the sauce to the pasta
 - Serve with the additional cheese and a further grating of pepper on top
 
 ---
