@@ -19,4 +19,7 @@ directions:
 - Remove from the fire and add the sauce and bacon to the pasta
 - Serve with the additional cheese and a further grating of pepper on top
 
+tips:
+- For better flavour use whole peppercorns, crush them and then heat them in a skillet for a couple minutes
+
 ---
