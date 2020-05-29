@@ -10,7 +10,7 @@ ingredients:
 - 20 g grated parmigiano (to serve)
 - 40 g diced bacon
 - 10 g cream
-- pepper
+- 1 g pepper
 
 directions:
 - Fry the bacon in a frying pan, without adding fat
