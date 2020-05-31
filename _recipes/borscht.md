@@ -5,7 +5,7 @@ title: "Borscht"
 tags: soup
 
 ingredients:
-- 200 mL stock
+- 250 mL stock
 - 50 g sliced white cabbage
 - 40 g grated beets
 - 40 g diced potatoes
@@ -14,7 +14,6 @@ ingredients:
 - 20 g chopped onion
 - 5 g tomato sauce
 - 1 g crushed garlic
-- ½ g salt
 - ⅛ g pepper
 - ¼ g dry dill or ¾ g fresh dill
 
@@ -25,8 +24,8 @@ directions:
 - Add the garlic and stir fry on high heat for about 30 seconds
 - Add the content of the pan to the pot
 - Add the cabbage to the pot
-- Simmer until the cabbage is cooked (about 15 minutes)
-- Add salt and pepper
+- Simmer until all vegetables are cooked (15 to 20 minutes)
+- Add pepper a couple minutes before it’s done
 - Serve with sour cream and dill
 
 ---
