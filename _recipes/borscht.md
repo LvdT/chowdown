@@ -7,11 +7,11 @@ tags: soup
 ingredients:
 - 250 mL stock
 - 50 g sliced white cabbage
-- 40 g grated beets
+- 50 g grated beets
 - 40 g diced potatoes
-- 30 g sour cream
 - 20 g grated carrots
 - 20 g chopped onion
+- 10 g sour cream
 - 5 g tomato sauce
 - 1 g crushed garlic
 - ⅛ g pepper
