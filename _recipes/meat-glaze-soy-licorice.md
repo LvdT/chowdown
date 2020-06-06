@@ -6,14 +6,14 @@ tags: glaze, meat
 
 ingredients:
 - 1 tbsp licorice powder
+- 1 tbsp water
 - 2 tsp soy sauce
 - 1 tsp vinegar
 - 1 tsp flour
 
 directions:
-- Put the honey and vinegar in a saucepan on low heat
+- Dissolve the licorice powder in water in a saucepan, getting rid of any lumps
+- Add the soy sauce and vinegar and warm on low heat until it starts to simmer
 - Add the flour and cook until it is thick enough to coat the meat
-- In the meantime dissolve the licorice powder in some water
-- Turn off the fire and add the licorice water and ginger to the sauce
 
 ---

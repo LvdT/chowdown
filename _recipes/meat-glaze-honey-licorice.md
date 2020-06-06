@@ -6,6 +6,7 @@ tags: glaze, meat
 
 ingredients:
 - 1 tbsp licorice powder
+- 1 tbsp water
 - 2 tsp acacia honey
 - 1 tsp lemon juice
 - 1 tsp flour
@@ -13,9 +14,9 @@ ingredients:
 - ginger
 
 directions:
-- Put the honey, lemon juice and salt in a saucepan on low heat
+- Dissolve the licorice powder in water in a saucepan, getting rid of any lumps
+- Add the honey, lemon juice and salt and warm on low heat until it starts to simmer
 - Add the flour and cook until it is thick enough to coat the meat
-- In the meantime dissolve the licorice powder in some water
-- Turn off the fire and add the licorice water and ginger to the sauce
+- Turn off the fire and add the ginger
 
 ---
