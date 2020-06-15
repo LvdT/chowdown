@@ -11,8 +11,8 @@ ingredients:
 - 100 g bacon
 - 100 mL wine
 - 3 cloves garlic
-- 20 g salt
-- 5 g pepper
+- 10 g salt
+- 2 g pepper
 
 directions:
 - Grind all the meat once and mix it with the salt and pepper
