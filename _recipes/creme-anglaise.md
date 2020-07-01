@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Crème Anglaise"
-tags: main, french
+tags: cream, french
 
 ingredients:
 - 125 mL milk
