@@ -9,8 +9,8 @@ ingredients:
 
 directions:
 - Soak the gelatin in cold water to soften it
-- Add the gelatin to the (hot) pastry cream and mix it in
-- Mix around a quarter of the meringue into the pastry cream
+- Add the gelatin to the (hot) custard and mix it in
+- Mix around a quarter of the meringue into the custard
 - Fold the rest of meringue into the mixture
 
 components:
