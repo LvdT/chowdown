@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title: "Crème Diplomate"
+title: "Crème Bavaroise"
 tags: cream, french
 
 ingredients:
@@ -14,7 +14,7 @@ directions:
 - Fold the Chantilly cream into the pasty cream
 
 components:
-- Crème Pâtissière
+- Crème Anglaise
 - Crème Chantilly
 
 ---
