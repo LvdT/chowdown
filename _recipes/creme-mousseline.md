@@ -2,7 +2,7 @@
 
 layout: recipe
 title: "Crème Mousseline"
-tags: main, french
+tags: cream, french
 
 ingredients:
 - 50 g butter
