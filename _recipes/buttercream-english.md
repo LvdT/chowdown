@@ -1,17 +1,17 @@
 ---
 
 layout: recipe
-title: "Crème Mousseline"
-tags: cream, french
+title: "Buttercream (English)"
+tags: cream
 
 ingredients:
-- 50 g butter
+- 100 g butter
 
 directions:
 - Make sure the butter is at room temperature and whip it until softened
 - Whip the butter into the custard (also at room temperature)
 
 components:
-- Crème Pâtissière
+- Crème Anglaise
 
 ---
